@@ -3,7 +3,7 @@
   :url "https://github.com/oliyh/superlifter"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[funcool/urania "0.2.0"]
+  :dependencies [[Gwonwoo-Nam/urania "0.3.0"]
                  [funcool/promesa "10.0.594"]
                  [org.clojure/tools.logging "1.2.4"]]
   :profiles {:provided {:dependencies [[org.clojure/clojure "1.11.1"]
